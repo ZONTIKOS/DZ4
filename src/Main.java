@@ -1,15 +1,26 @@
 public class Main {
     public static void main(String[] args) {
+        System.out.println("------------------------");
         task1();
+        System.out.println("------------------------");
         task2();
+        System.out.println("------------------------");
         task3();
+        System.out.println("------------------------");
         task4();
+        System.out.println("------------------------");
         task5();
+        System.out.println("------------------------");
         task6();
+        System.out.println("-----------------------");
         task7(3);
+        System.out.println("------------------------");
         task7(6);
+        System.out.println("------------------------");
         task7(7);
+        System.out.println("-----------------------");
         task8(99);
+        System.out.println("------------------------");
 
         System.out.println("Я не поняв як робити 4 завдання");
         System.out.println("Я не поняв як робити 4 завдання");
